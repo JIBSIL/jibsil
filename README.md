@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Tailwind CSS
 - 📫 How to reach me: via my email, tech101file@gmail.com or my Telegram, @JIBSIL
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jibsil)](https://github.com/anuraghazra/github-readme-stats)
+[![JIBSIL's](https://github-readme-stats.vercel.app/api?username=jibsil)](https://github.com/anuraghazra/github-readme-stats)
