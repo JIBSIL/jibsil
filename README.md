@@ -3,4 +3,6 @@
 - 🌱 I’m currently learning Tailwind CSS
 - 📫 How to reach me: via my email, tech101file@gmail.com or my Telegram, @JIBSIL
 
-[![JIBSIL's](https://github-readme-stats.vercel.app/api?username=jibsil&theme=react)](https://github.com/anuraghazra/github-readme-stats) ![Contribution stats](https://github-readme-streak-stats.herokuapp.com/?user=JIBSIL&theme=react)
+[![JIBSIL's](https://github-readme-stats.vercel.app/api?username=jibsil&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+![Contribution stats](https://github-readme-streak-stats.herokuapp.com/?user=JIBSIL&theme=react&hide_border=true)
+![Contribution stats 2](https://activity-graph.herokuapp.com/graph?username=JIBSIL&theme=react-dark&bg_color=20232a&hide_border=true)
