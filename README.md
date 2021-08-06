@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Hi!+I'm+JIBSIL!+%F0%9F%91%8B;I+code+JavaScript+and+Node.js)](https://git.io/typing-svg)
 
 <!--
 **JIBSIL/jibsil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
