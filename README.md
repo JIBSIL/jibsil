@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi!+I'm+JIBSIL!+%F0%9F%91%8B;%E2%9A%A1++I+code+JavaScript+and+Node.js+%E2%9A%A1+)](https://git.io/typing-svg)
-- 🔭 I’m currently working on Minecraft (Java) Plugins, ObjC iPhone drivers and Lua scripts!
-- 🌱 I’m currently learning Rust and Go!
+- 🔭 I'm a backend developer proficient in Python, JavaScript (Node) and Go! I’m currently working on ObjC iPhone emulation drivers and DistriFS (distributed filesystem)!
+- 🌱 I’m currently learning Rust and Tensorflow
 - 📫 How to reach me: via my email, tech101file@gmail.com or my Telegram, @JIBSIL
 
 [![JIBSIL's](https://github-readme-stats.vercel.app/api?username=jibsil&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
