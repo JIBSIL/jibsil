@@ -5,4 +5,3 @@
 
 [![JIBSIL's](https://github-readme-stats.vercel.app/api?username=jibsil&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 ![Contribution stats](https://github-readme-streak-stats.herokuapp.com/?user=JIBSIL&theme=react&hide_border=true)
-![Contribution stats 2](https://activity-graph.herokuapp.com/graph?username=JIBSIL&theme=react-dark&bg_color=20232a&hide_border=true)
