@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning Rust and Tensorflow
 - 📫 How to reach me: via my email, tech101file@gmail.com or my Telegram, @JIBSIL
 
-[![JIBSIL's](https://github-readme-stats.vercel.app/api?username=jibsil&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 ![Contribution stats](https://github-readme-streak-stats.herokuapp.com/?user=JIBSIL&theme=react&hide_border=true)
