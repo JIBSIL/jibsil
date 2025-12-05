@@ -3,5 +3,3 @@
 - 🌱 I'm currently learning Rust and Go
 - 📍 I go to Purdue University in West Lafayette, Indiana, USA
 - 📫 How to reach me: via my email, tech101file@gmail.com or my Telegram, @JIBSIL
-
-![Contribution stats](https://github-readme-streak-stats.herokuapp.com/?user=JIBSIL&theme=react&hide_border=true)
